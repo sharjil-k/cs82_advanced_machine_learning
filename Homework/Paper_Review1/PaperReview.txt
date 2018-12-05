@@ -1,0 +1,13 @@
+Title : Implementation of recurrent neural network and boosting method for time-series forecasting
+Reviewed by: Amay
+
+Critique:
+The main idea of this paper is to introduce a new hyperparameter K in a boosting algorithm. 
+The parameter K would determine how much subsequent boosting models would lean towards misclassified points of earlier models.
+The paper itself discusses how the choice of the loss function was critical in determining the effect of variable K in model performance. 
+In other words, leaning more towards the misclassified points was helpful for some loss functions but not others. Since this was the case, it would 
+have been nice to see how the choice of K effects boosting algorithms using other base classifiers such as  regression models or k-nearest neighbors.
+It would have been a great to see the reasults of leaning more or less towards missclassified points when other base algorithms are used for prediction.
+
+I would have added boosting models with other weak learners and also included an ensemlbe model with no boosting in the comparisons to paint a much clearer picture of 
+the effect of K in boosting algorithms.
