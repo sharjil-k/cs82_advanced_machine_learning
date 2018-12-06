@@ -1,0 +1,317 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="Bulbasaur"/>
+<node id="GRASS"/>
+<node id="Ivysaur"/>
+<node id="Venusaur"/>
+<node id="Charmander"/>
+<node id="FIRE"/>
+<node id="Charmeleon"/>
+<node id="Charizard"/>
+<node id="Squirtle"/>
+<node id="WATER"/>
+<node id="Wartortle"/>
+<node id="Blastoise"/>
+<node id="Caterpie"/>
+<node id="BUG"/>
+<node id="Metapod"/>
+<node id="Butterfree"/>
+<node id="Weedle"/>
+<node id="Kakuna"/>
+<node id="Beedrill"/>
+<node id="Pidgey"/>
+<node id="NORMAL"/>
+<node id="Pidgeotto"/>
+<node id="Pidgeot"/>
+<node id="Rattata"/>
+<node id="Raticate"/>
+<node id="Spearow"/>
+<node id="Fearow"/>
+<node id="Ekans"/>
+<node id="POISON"/>
+<node id="Arbok"/>
+<node id="Pikachu"/>
+<node id="ELECTRIC"/>
+<node id="Raichu"/>
+<node id="Sandshrew"/>
+<node id="GROUND"/>
+<node id="Sandslash"/>
+<node id="Nidoran"/>
+<node id="Nidorina"/>
+<node id="Nidoqueen"/>
+<node id="Nidorino"/>
+<node id="Nidoking"/>
+<node id="Clefairy"/>
+<node id="FAIRY"/>
+<node id="Clefable"/>
+<node id="Vulpix"/>
+<node id="Ninetales"/>
+<node id="Jigglypuff"/>
+<node id="Wigglytuff"/>
+<node id="Zubat"/>
+<node id="Golbat"/>
+<node id="Oddish"/>
+<node id="Gloom"/>
+<node id="Vileplume"/>
+<node id="Paras"/>
+<node id="Parasect"/>
+<node id="Venonat"/>
+<node id="Venomoth"/>
+<node id="Diglett"/>
+<node id="Dugtrio"/>
+<node id="Meowth"/>
+<node id="Persian"/>
+<node id="Psyduck"/>
+<node id="Golduck"/>
+<node id="Mankey"/>
+<node id="FIGHTING"/>
+<node id="Primeape"/>
+<node id="Growlithe"/>
+<node id="Arcanine"/>
+<node id="Poliwag"/>
+<node id="Poliwhirl"/>
+<node id="Poliwrath"/>
+<node id="Abra"/>
+<node id="PSYCHIC"/>
+<node id="Kadabra"/>
+<node id="Alakazam"/>
+<node id="Machop"/>
+<node id="Machoke"/>
+<node id="Machamp"/>
+<node id="Bellsprout"/>
+<node id="Weepinbell"/>
+<node id="Victreebel"/>
+<node id="Tentacool"/>
+<node id="Tentacruel"/>
+<node id="Geodude"/>
+<node id="ROCK"/>
+<node id="Graveler"/>
+<node id="Golem"/>
+<node id="Ponyta"/>
+<node id="Rapidash"/>
+<node id="Slowpoke"/>
+<node id="Slowbro"/>
+<node id="Magnemite"/>
+<node id="Magneton"/>
+<node id="Farfetchd"/>
+<node id="Doduo"/>
+<node id="Dodrio"/>
+<node id="Seel"/>
+<node id="Dewgong"/>
+<node id="Grimer"/>
+<node id="Muk"/>
+<node id="Shellder"/>
+<node id="Cloyster"/>
+<node id="Gastly"/>
+<node id="GHOST"/>
+<node id="Haunter"/>
+<node id="Gengar"/>
+<node id="Onix"/>
+<node id="Drowzee"/>
+<node id="Hypno"/>
+<node id="Krabby"/>
+<node id="Kingler"/>
+<node id="Voltorb"/>
+<node id="Electrode"/>
+<node id="Exeggcute"/>
+<node id="Exeggutor"/>
+<node id="Cubone"/>
+<node id="Marowak"/>
+<node id="Hitmonlee"/>
+<node id="Hitmonchan"/>
+<node id="Lickitung"/>
+<node id="Koffing"/>
+<node id="Weezing"/>
+<node id="Rhyhorn"/>
+<node id="Rhydon"/>
+<node id="Chansey"/>
+<node id="Tangela"/>
+<node id="Kangaskhan"/>
+<node id="Horsea"/>
+<node id="Seadra"/>
+<node id="Goldeen"/>
+<node id="Seaking"/>
+<node id="Staryu"/>
+<node id="Starmie"/>
+<node id="Mime"/>
+<node id="Scyther"/>
+<node id="Jynx"/>
+<node id="ICE"/>
+<node id="Electabuzz"/>
+<node id="Magmar"/>
+<node id="Pinsir"/>
+<node id="Tauros"/>
+<node id="Magikarp"/>
+<node id="Gyarados"/>
+<node id="Lapras"/>
+<node id="Ditto"/>
+<node id="Eevee"/>
+<node id="Vaporeon"/>
+<node id="Jolteon"/>
+<node id="Flareon"/>
+<node id="Porygon"/>
+<node id="Omanyte"/>
+<node id="Omastar"/>
+<node id="Kabuto"/>
+<node id="Kabutops"/>
+<node id="Aerodactyl"/>
+<node id="Snorlax"/>
+<node id="Articuno"/>
+<node id="Zapdos"/>
+<node id="Moltres"/>
+<node id="Dratini"/>
+<node id="DRAGON"/>
+<node id="Dragonair"/>
+<node id="Dragonite"/>
+<node id="Mewtwo"/>
+<node id="Mew"/>
+<edge source="Bulbasaur" target="GRASS"/>
+<edge source="GRASS" target="Ivysaur"/>
+<edge source="GRASS" target="Venusaur"/>
+<edge source="GRASS" target="Oddish"/>
+<edge source="GRASS" target="Gloom"/>
+<edge source="GRASS" target="Vileplume"/>
+<edge source="GRASS" target="Bellsprout"/>
+<edge source="GRASS" target="Weepinbell"/>
+<edge source="GRASS" target="Victreebel"/>
+<edge source="GRASS" target="Exeggcute"/>
+<edge source="GRASS" target="Exeggutor"/>
+<edge source="GRASS" target="Tangela"/>
+<edge source="Charmander" target="FIRE"/>
+<edge source="FIRE" target="Charmeleon"/>
+<edge source="FIRE" target="Charizard"/>
+<edge source="FIRE" target="Vulpix"/>
+<edge source="FIRE" target="Ninetales"/>
+<edge source="FIRE" target="Growlithe"/>
+<edge source="FIRE" target="Arcanine"/>
+<edge source="FIRE" target="Ponyta"/>
+<edge source="FIRE" target="Rapidash"/>
+<edge source="FIRE" target="Magmar"/>
+<edge source="FIRE" target="Flareon"/>
+<edge source="FIRE" target="Moltres"/>
+<edge source="Squirtle" target="WATER"/>
+<edge source="WATER" target="Wartortle"/>
+<edge source="WATER" target="Blastoise"/>
+<edge source="WATER" target="Psyduck"/>
+<edge source="WATER" target="Golduck"/>
+<edge source="WATER" target="Poliwag"/>
+<edge source="WATER" target="Poliwhirl"/>
+<edge source="WATER" target="Poliwrath"/>
+<edge source="WATER" target="Tentacool"/>
+<edge source="WATER" target="Tentacruel"/>
+<edge source="WATER" target="Slowpoke"/>
+<edge source="WATER" target="Slowbro"/>
+<edge source="WATER" target="Seel"/>
+<edge source="WATER" target="Dewgong"/>
+<edge source="WATER" target="Shellder"/>
+<edge source="WATER" target="Cloyster"/>
+<edge source="WATER" target="Krabby"/>
+<edge source="WATER" target="Kingler"/>
+<edge source="WATER" target="Horsea"/>
+<edge source="WATER" target="Seadra"/>
+<edge source="WATER" target="Goldeen"/>
+<edge source="WATER" target="Seaking"/>
+<edge source="WATER" target="Staryu"/>
+<edge source="WATER" target="Starmie"/>
+<edge source="WATER" target="Magikarp"/>
+<edge source="WATER" target="Gyarados"/>
+<edge source="WATER" target="Lapras"/>
+<edge source="WATER" target="Vaporeon"/>
+<edge source="Caterpie" target="BUG"/>
+<edge source="BUG" target="Metapod"/>
+<edge source="BUG" target="Butterfree"/>
+<edge source="BUG" target="Weedle"/>
+<edge source="BUG" target="Kakuna"/>
+<edge source="BUG" target="Beedrill"/>
+<edge source="BUG" target="Paras"/>
+<edge source="BUG" target="Parasect"/>
+<edge source="BUG" target="Venonat"/>
+<edge source="BUG" target="Venomoth"/>
+<edge source="BUG" target="Scyther"/>
+<edge source="BUG" target="Pinsir"/>
+<edge source="Pidgey" target="NORMAL"/>
+<edge source="NORMAL" target="Pidgeotto"/>
+<edge source="NORMAL" target="Pidgeot"/>
+<edge source="NORMAL" target="Rattata"/>
+<edge source="NORMAL" target="Raticate"/>
+<edge source="NORMAL" target="Spearow"/>
+<edge source="NORMAL" target="Fearow"/>
+<edge source="NORMAL" target="Jigglypuff"/>
+<edge source="NORMAL" target="Wigglytuff"/>
+<edge source="NORMAL" target="Meowth"/>
+<edge source="NORMAL" target="Persian"/>
+<edge source="NORMAL" target="Farfetchd"/>
+<edge source="NORMAL" target="Doduo"/>
+<edge source="NORMAL" target="Dodrio"/>
+<edge source="NORMAL" target="Lickitung"/>
+<edge source="NORMAL" target="Chansey"/>
+<edge source="NORMAL" target="Kangaskhan"/>
+<edge source="NORMAL" target="Tauros"/>
+<edge source="NORMAL" target="Ditto"/>
+<edge source="NORMAL" target="Eevee"/>
+<edge source="NORMAL" target="Porygon"/>
+<edge source="NORMAL" target="Snorlax"/>
+<edge source="Ekans" target="POISON"/>
+<edge source="POISON" target="Arbok"/>
+<edge source="POISON" target="Nidoran"/>
+<edge source="POISON" target="Nidorina"/>
+<edge source="POISON" target="Nidoqueen"/>
+<edge source="POISON" target="Nidorino"/>
+<edge source="POISON" target="Nidoking"/>
+<edge source="POISON" target="Zubat"/>
+<edge source="POISON" target="Golbat"/>
+<edge source="POISON" target="Grimer"/>
+<edge source="POISON" target="Muk"/>
+<edge source="POISON" target="Koffing"/>
+<edge source="POISON" target="Weezing"/>
+<edge source="Pikachu" target="ELECTRIC"/>
+<edge source="ELECTRIC" target="Raichu"/>
+<edge source="ELECTRIC" target="Magnemite"/>
+<edge source="ELECTRIC" target="Magneton"/>
+<edge source="ELECTRIC" target="Voltorb"/>
+<edge source="ELECTRIC" target="Electrode"/>
+<edge source="ELECTRIC" target="Electabuzz"/>
+<edge source="ELECTRIC" target="Jolteon"/>
+<edge source="ELECTRIC" target="Zapdos"/>
+<edge source="Sandshrew" target="GROUND"/>
+<edge source="GROUND" target="Sandslash"/>
+<edge source="GROUND" target="Diglett"/>
+<edge source="GROUND" target="Dugtrio"/>
+<edge source="GROUND" target="Cubone"/>
+<edge source="GROUND" target="Marowak"/>
+<edge source="GROUND" target="Rhyhorn"/>
+<edge source="GROUND" target="Rhydon"/>
+<edge source="Clefairy" target="FAIRY"/>
+<edge source="FAIRY" target="Clefable"/>
+<edge source="Mankey" target="FIGHTING"/>
+<edge source="FIGHTING" target="Primeape"/>
+<edge source="FIGHTING" target="Machop"/>
+<edge source="FIGHTING" target="Machoke"/>
+<edge source="FIGHTING" target="Machamp"/>
+<edge source="FIGHTING" target="Hitmonlee"/>
+<edge source="FIGHTING" target="Hitmonchan"/>
+<edge source="Abra" target="PSYCHIC"/>
+<edge source="PSYCHIC" target="Kadabra"/>
+<edge source="PSYCHIC" target="Alakazam"/>
+<edge source="PSYCHIC" target="Drowzee"/>
+<edge source="PSYCHIC" target="Hypno"/>
+<edge source="PSYCHIC" target="Mime"/>
+<edge source="PSYCHIC" target="Mewtwo"/>
+<edge source="PSYCHIC" target="Mew"/>
+<edge source="Geodude" target="ROCK"/>
+<edge source="ROCK" target="Graveler"/>
+<edge source="ROCK" target="Golem"/>
+<edge source="ROCK" target="Onix"/>
+<edge source="ROCK" target="Omanyte"/>
+<edge source="ROCK" target="Omastar"/>
+<edge source="ROCK" target="Kabuto"/>
+<edge source="ROCK" target="Kabutops"/>
+<edge source="ROCK" target="Aerodactyl"/>
+<edge source="Gastly" target="GHOST"/>
+<edge source="GHOST" target="Haunter"/>
+<edge source="GHOST" target="Gengar"/>
+<edge source="Jynx" target="ICE"/>
+<edge source="ICE" target="Articuno"/>
+<edge source="Dratini" target="DRAGON"/>
+<edge source="DRAGON" target="Dragonair"/>
+<edge source="DRAGON" target="Dragonite"/>
+</graph></graphml>
